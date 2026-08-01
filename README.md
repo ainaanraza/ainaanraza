@@ -129,12 +129,14 @@ I'm an **AI Engineer & Full Stack Developer** passionate about building cutting-
 
 ---
 
-## 📊 GitHub Neural Interface (Analytics)
+<div align="center">
+  <img src="assets/analytics_header.svg" width="100%" />
+</div>
 
 <div align="center">
 
 ### Contribution Grid Matrix
-<!-- The Snake Action will automatically replace these image links with generated ones in the dist branch. Using the raw URLs directly here once action pushes. We will link to them dynamically. -->
+<!-- The Snake Action pushes to the dist/output branch. Give it a minute after running the workflow! -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ainaanraza/ainaanraza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ainaanraza/ainaanraza/output/github-contribution-grid-snake.svg">
@@ -181,8 +183,10 @@ I'm an **AI Engineer & Full Stack Developer** passionate about building cutting-
 ---
 
 <div align="center">
+  <img src="assets/connection_header.svg" width="100%" />
+</div>
 
-### 📡 Connection Terminals
+<div align="center">
 
 <a href="https://ainaanraza.me">
   <img src="https://img.shields.io/badge/Portfolio-0A001A?style=for-the-badge&logo=Web&logoColor=00FFFF&labelColor=140033" alt="Portfolio" />
@@ -197,11 +201,15 @@ I'm an **AI Engineer & Full Stack Developer** passionate about building cutting-
 [![Holopin](https://holopin.me/ainaanraza)](https://holopin.io/@ainaanraza)
 -->
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 <br>
 
-**Profile Views** <br>
-<img src="https://komarev.com/ghpvc/?username=ainaanraza&color=00FFFF&style=flat-square&label=VISITORS" alt="Profile Views" />
+<div align="center">
+  <h3>⚡ SYSTEM VISITS ⚡</h3>
+  <img src="https://komarev.com/ghpvc/?username=ainaanraza&color=0a001a&labelColor=00FFFF&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views" />
+</div>
 
 </div>
